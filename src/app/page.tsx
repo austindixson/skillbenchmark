@@ -33,7 +33,7 @@ const leaderboardData = [
   {
     rank: 1,
     name: "commit-wizard",
-    author: "RuneweaverStudios",
+    author: "austindixson",
     score: 94.2,
     category: "Git",
     models: 5,
